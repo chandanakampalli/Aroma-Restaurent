@@ -1,0 +1,55 @@
+
+
+a {
+    color: white;
+}
+.offers {
+    font-style: italic;
+    font-weight: 500;
+    color: #323f4b;
+}
+.ems-card {
+    border-radius: 16px;
+
+}
+
+.ems-section {
+    background-color: white;
+}
+
+.ems-head {
+    font-weight: 700;
+    font-family: "Roboto";
+    color: #183b56;
+    font-size: 28px;
+	text-align:center;
+	padding-bottom:20px;
+}
+.ems-sub-head{
+	font-weight: 700;
+    font-family: "Roboto";
+    color: #d0b200;
+    font-size: 28px;
+	padding-bottom:20px;
+	text-decoration:underline;
+}
+.ems-image {
+    border-radius: 16px;
+	height:250px;
+}
+
+.ems-card-head {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 18px;
+    color: #323f4b;
+    margin-top: 24px;
+}
+
+.ems-card-link {
+    color: #d0b200;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
